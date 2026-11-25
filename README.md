@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile.png" width="180" alt="Shilrick Monsuller"/>
+  <img src="./profile.png" width="220" alt="Shilrick Monsuller"/>
 </p>
 
 <h1 align="center">Hi, I'm Shilrick Monsuller 👋</h1>
