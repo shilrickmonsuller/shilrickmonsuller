@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./profile.png" width="220" alt="Shilrick Monsuller"/>
-</p>
-
 <h1 align="center">Hi, I'm Shilrick Monsuller 👋</h1>
 
 <h3 align="center">AI Automation Specialist · n8n · GoHighLevel · Claude</h3>
